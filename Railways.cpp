@@ -5,6 +5,8 @@
 #include <vector>
 #include <cmath>
 #include <windows.h>
+// #include <bits/stdc++.h>
+
 void animate()
 {
     char chars[] = {'-', '\\', '|', '/'};
